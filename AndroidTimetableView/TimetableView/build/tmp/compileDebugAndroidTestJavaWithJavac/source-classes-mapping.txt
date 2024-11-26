@@ -1,0 +1,2 @@
+com/zhuangfei/android_timetableview/sample/test/BuildConfig.java
+ com.zhuangfei.android_timetableview.sample.test.BuildConfig

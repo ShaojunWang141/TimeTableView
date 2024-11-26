@@ -1,0 +1,14 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.zhuangfei.android_timetableview.sample"
+4    android:versionCode="27"
+5    android:versionName="2.0.7" >
+6
+7    <uses-sdk
+7-->C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:6:5-8:41
+8        android:minSdkVersion="1"
+8-->C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:7:9-35
+9        android:targetSdkVersion="33" />
+9-->C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:8:9-38
+10
+11</manifest>

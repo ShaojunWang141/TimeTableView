@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zhuangfei.android_timetableview"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="26"
+        android:targetSdkVersion="33" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+
+        <!-- 主活动，带有 intent-filter，需要 android:exported -->
+        <activity android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 其他活动，若没有 intent-filter 则不需要 android:exported -->
+        <activity android:name=".views.BaseFuncActivity" android:exported="false" />
+        <activity android:name=".views.AttrActivity" android:exported="false" />
+        <activity android:name=".views.NonViewActivity" android:exported="false" />
+        <activity android:name=".views.ElasticActivity" android:exported="false" />
+        <activity android:name=".views.ColorPoolActivity" android:exported="false" />
+        <activity android:name=".views.ItemStyleActivity" android:exported="false" />
+        <activity android:name=".views.DateActivity" android:exported="false" />
+        <activity android:name=".views.SlideActivity" android:exported="false" />
+        <activity android:name=".views.ExtrasActivity" android:exported="false" />
+        <activity android:name=".views.FlaglayoutActivity" android:exported="false" />
+        <activity android:name=".views.DateDelayActivity" android:exported="false" />
+        <activity android:name=".views.CustomWidthActivity" android:exported="false" />
+        <activity android:name=".views.LocalConfigActivity" android:exported="false" />
+        <activity android:name=".views.SimpleActivity" android:exported="false" />
+        <activity android:name=".template.wakeup.WakeupActivity" android:exported="false" />
+        <activity android:name=".views.EffiSchedulerActivity" android:exported="false" />
+
+    </application>
+</manifest>

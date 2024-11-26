@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:2:5-57
+		INJECTED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml
+		INJECTED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:4:5-32
+	xmlns:android
+		ADDED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:3:5-29
+uses-sdk
+ADDED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:8:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml:7:9-35
+		INJECTED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml
+		INJECTED from C:\Users\95941\Desktop\Android_Project_22207241\AndroidTimetableView\TimetableView\AndroidManifest.xml

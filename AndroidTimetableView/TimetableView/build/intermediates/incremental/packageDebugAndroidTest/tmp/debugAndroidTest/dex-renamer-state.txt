@@ -1,0 +1,4 @@
+#Mon Nov 04 10:32:11 CST 2024
+base.0=C\:\\Users\\95941\\Desktop\\peizhi\\AndroidTimetableView\\TimetableView\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

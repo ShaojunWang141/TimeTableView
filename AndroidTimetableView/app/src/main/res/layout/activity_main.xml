@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/id_btn14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="EffiScheduler" />
+
+        <Button
+            android:id="@+id/id_btn0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Simple Example" />
+
+        <Button
+            android:id="@+id/id_btn1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Basic Features" />
+
+        <Button
+            android:id="@+id/id_btn2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Custom Attributes" />
+
+        <Button
+            android:id="@+id/id_btn3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Color Pool Example" />
+
+        <Button
+            android:id="@+id/id_btn4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Course Item Style" />
+
+        <Button
+            android:id="@+id/id_btn12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Custom Width" />
+
+        <Button
+            android:id="@+id/id_btn5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Replace Scroll Layout" />
+
+        <Button
+            android:id="@+id/id_btn6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sidebar Style" />
+
+        <Button
+            android:id="@+id/id_btn7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Date Bar Style" />
+
+        <Button
+            android:id="@+id/id_btn8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Utility Class" />
+
+        <Button
+            android:id="@+id/id_btn9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Extra Data" />
+
+        <Button
+            android:id="@+id/id_btn10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Flag Layout (Blank Space Click)" />
+
+        <Button
+            android:id="@+id/id_btn11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Date Delay Display (Set Start Date)" />
+
+        <Button
+            android:id="@+id/id_btn13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Timetable Settings (Local Config Load, Export)" />
+
+    </LinearLayout>
+</ScrollView>
+
